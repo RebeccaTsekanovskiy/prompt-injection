@@ -1,3 +1,5 @@
+README:
+
 This project contains sensitive images users may find offensive. All images are AI-generated and used solely for demonstrating prompt injection and security vulnerabilities in multimodal AI systems.
 
 Disclaimer
